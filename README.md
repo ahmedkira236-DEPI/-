@@ -3,6 +3,9 @@
 > Dr. Omar Haroun Dental Clinic is a dental healthcare clinic that aims to provide affordable and high-quality dental services for patients in Faisal and Haram. The project focuses on increasing brand awareness, building trust with potential patients, and attracting new customers through social media marketing and targeted advertising. It solves common patient concerns such as fear of dentists, high treatment costs, and lack of confidence in dental services by delivering educational, trust-building, and promotional content. The project will be presented as a one-month digital marketing plan including competitor analysis, buyer personas, SWOT analysis, content pillars, media planning, and social media content strategy.
 
 ---
+### Team Members
+Ahmed Ali Abdelhamid 
+
 
 ## Instructor
 DR. Sameh Ibrahim
