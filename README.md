@@ -64,3 +64,5 @@ Create trust between the clinic and potential patients by showing clients review
 https://drive.google.com/drive/folders/1bzuQE1a7wXY8B0XXvV0L5C_-kguaAKk8?usp=sharing
 
 https://docs.google.com/presentation/d/1oLtgs3fQj4Wh6e0b1cPW9b00Chwn7GUe/edit?usp=sharing&ouid=111423350691821877268&rtpof=true&sd=true
+
+https://drive.google.com/file/d/1Eny-wi_vy1JiDy-TwA-T61On3fFjC6Yn/view?usp=sharing
